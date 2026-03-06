@@ -3,7 +3,7 @@
 ## Overview
 This project analyses the financial performance and intrinsic value of Thien Long Group (TLG) using financial modelling and valuation techniques.
 
-It was developed during my final year of the Bachelor of Applied Finance and completed in 2024 (time flies TT). Still the methodologies used in the project (DCF, comparable multiples, and financial statement modelling) remain widely used practices in corporate finance and equity research today.
+It was developed during my final year of the Bachelor of Applied Finance and completed in end-2023 beginning-2024 (time flies TT). Still the methodologies used in the project (DCF, comparable multiples, and financial statement modelling) remain widely used practices in corporate finance and equity research today.
 
 This is a project I’m particularly proud of because it demonstrates my foundation in financial analysis, financial modelling, and valuation. Continuously practising and excercising these projects played a meaningful role in helping me secure my internship at Deloitte back then.
 
