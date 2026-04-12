@@ -3,7 +3,7 @@
 ## Overview
 Conducted a comprehensive financial analysis and equity valuation of Thien Long Group (HOSE: TLG) as of June 2023, applying financial modelling and multi-method valuation techniques to determine intrinsic share value and investment recommendation.
 
-This project was developed during the final year of a Bachelor of Applied Finance and demonstrates the application of industry-standard methodologies used in corporate finance and equity research.
+This project was developed during the final year of my Bachelor of applied finance (time does fly TT) and demonstrates the application of industry-standard methodologies used in corporate finance and equity research.
 
 ## Objective
 To estimate the intrinsic equity value of TLG by analysing financial statements and applying pro-forma financial modelling, multi-method valuation (DCF, APV, DDM, and relative multiples), and scenario/sensitivity analysis, including Monte Carlo simulation.
@@ -21,6 +21,3 @@ To estimate the intrinsic equity value of TLG by analysing financial statements 
 ## Project Files
 - `FSA & Valuation working excel.xlsm` – financial model and valuation calculations  
 - `Report.docx` – full analysis and supporting discussion  
-
-## Skills Demonstrated
-Financial analysis, financial modelling, valuation, forecasting, and data-driven investment decision-making
